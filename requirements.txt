@@ -1,0 +1,6 @@
+transformers
+torch
+huggingface_hub
+gradio
+pandas
+numpy
